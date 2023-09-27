@@ -1,0 +1,2 @@
+Hospital readmission prediction using machine learning (ML) techniques is a healthcare-focused application of data science and artificial intelligence. It involves developing predictive models to forecast whether a patient who has been discharged from a hospital will be readmitted within a certain time frame, typically within or after 30 days of their initial discharge.
+Common ML algorithms used for hospital readmission prediction include logistic regression, decision trees, random forests, support vector machines, and neural networks.
